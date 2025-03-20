@@ -39,7 +39,7 @@ export default function Footer() {
                 <Twitter size={18} />
               </a>
               <a
-                href="#"
+                href="https://www.instagram.com/crownshieldagency?igsh=MnU5YXp4cnRkaGFv "
                 className="bg-navy-800 hover:bg-navy-700 text-white p-2 rounded-full transition-colors duration-300"
                 aria-label="Instagram"
               >
