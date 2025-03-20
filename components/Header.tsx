@@ -52,7 +52,7 @@ export default function Header() {
               height={50}
               className="mr-2"
             />
-            <span className="text-xl font-bold text-white hidden md:inline-block">Crown Shield Agency</span>
+            <span className="text-xl font-bold text-white hidden md:inline-block">Crown Shield Agency Pvt. Ltd</span>
           </Link>
 
           {/* Desktop Navigation */}
