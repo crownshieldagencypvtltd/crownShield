@@ -391,7 +391,7 @@ const cms: CMS = {
           },
           {
             icon: "Home",
-            title: "housekeeping",
+            title: "Housekeeping",
             description:
               "Reliable and trustworthy domestic staff including maids, cooks, and caretakers to maintain your home with care.",
             link: "/services#domestic",
@@ -955,9 +955,9 @@ const cms: CMS = {
         { text: "Domestic Help", href: "/services#domestic-help" },
       ],
       contactInfo: {
-        address: "Crown Shield Agency Pvt. Ltd., 123 Taratala Road, Kolkata, West Bengal 700088",
-        phone: "+91 98765 43210",
-        email: "info@crownshieldagency.com",
+        address: "Diamond Harbour Road, Sahapur, New Alipore, Kolkata, West Bengal 700038",
+        phone: "+91 7319367046",
+        email: "crownshieldagency@gmail.com",
       },
       copyright: "© 2024 Crown Shield Agency Pvt. Ltd. All rights reserved.",
     },
