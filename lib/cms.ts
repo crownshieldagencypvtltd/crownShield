@@ -770,7 +770,7 @@ const cms: CMS = {
           {
             icon: "MapPin",
             title: "Visit Us",
-            content: "Diamond Harbour Rd, Sahapur, New Alipore, Kolkata, West Bengal 700038",
+            content: "Diamond Harbour Road, Sahapur, New Alipore, Kolkata, West Bengal 700038",
             link: "https://goo.gl/maps/123",
           },
         ],
