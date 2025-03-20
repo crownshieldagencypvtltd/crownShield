@@ -758,19 +758,19 @@ const cms: CMS = {
           {
             icon: "Phone",
             title: "Call Us",
-            content: "+91 98765 43210",
-            link: "tel:+919876543210",
+            content: "+91 7319367046",
+            link: "tel:+917319367046",
           },
           {
             icon: "Mail",
             title: "Email Us",
-            content: "info@crownshieldagency.com",
-            link: "mailto:info@crownshieldagency.com",
+            content: "crownshieldagency@gmail.com",
+            link: "mailto:crownshieldagency@gmail.com",
           },
           {
             icon: "MapPin",
             title: "Visit Us",
-            content: "123 Taratala Road, Kolkata",
+            content: "Diamond Harbour Rd, Sahapur, New Alipore, Kolkata, West Bengal 700038",
             link: "https://goo.gl/maps/123",
           },
         ],
@@ -778,7 +778,7 @@ const cms: CMS = {
       mapLocation: {
         title: "Our Location",
         embedUrl:
-          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14744.846842277644!2d88.32145562219547!3d22.52167326631969!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a0279c91a8d2d49%3A0xc6ee508c74cf031d!2sTaratala%2C%20Kolkata%2C%20West%20Bengal!5e0!3m2!1sen!2sin!4v1645536248000!5m2!1sen!2sin",
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3685.773699244731!2d88.31961917507584!3d22.5126722795344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027a00f8138655%3A0xa2f4b0650fe217d1!2sTaratala%20Flyover%2C%20Kolkata%2C%20West%20Bengal!5e0!3m2!1sen!2sin!4v1742500212395!5m2!1sen!2sin",
       },
     },
     careers: {
