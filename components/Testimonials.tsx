@@ -16,7 +16,7 @@ const testimonials = [
     name: "Priya Sharma",
     position: "Hotel Manager, The Oberoi Grand",
     content:
-      "We've been using Crown Shield's domestic staff services for our hotel, and the quality of their personnel is outstanding. They're reliable, hardworking, and maintain our high standards of cleanliness and service.",
+      "We've been using Crown Shield's housekeeping staff services for our hotel, and the quality of their personnel is outstanding. They're reliable, hardworking, and maintain our high standards of cleanliness and service.",
     rating: 5,
   },
   {

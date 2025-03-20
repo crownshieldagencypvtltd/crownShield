@@ -21,7 +21,7 @@ export default function Footer() {
             </Link>
             <p className="text-white/70 mb-6">
               Your trusted partner for premium manpower solutions, providing exceptional security guards, electricians,
-              mechanics, and domestic help services.
+              mechanics, and housekeepig services.
             </p>
             <div className="flex space-x-4">
               <a

@@ -298,7 +298,7 @@ const cms: CMS = {
   siteInfo: {
     title: "Crown Shield Agency | Premium Manpower Solutions",
     description:
-      "Your Trusted Partner for Quality Manpower Solutions - Security Guards, Electricians, Mechanics, and Domestic Help",
+      "Your Trusted Partner for Quality Manpower Solutions - Security Guards, Electricians, Mechanics, and Housekeeping Services.",
     logo: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-02-27%20at%2012.26.46_3fc88e65.jpg-MjlPwfLJn2I7UdXRi9EsE5SkMyXxJ9.jpeg",
     favicon:
       "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-02-27%20at%2012.26.46_3fc88e65.jpg-MjlPwfLJn2I7UdXRi9EsE5SkMyXxJ9.jpeg",
@@ -322,7 +322,7 @@ const cms: CMS = {
       hero: {
         title: 'Your Trusted Partner for <span class="text-gold-500">Quality Manpower Solutions</span>',
         subtitle:
-          "Providing exceptional security guards, electricians, mechanics, and domestic help services across Kolkata and beyond.",
+          "Providing exceptional security guards, electricians, mechanics, and House Keeping services across Kolkata and beyond.",
         logo: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-02-27%20at%2012.26.46_3fc88e65.jpg-MjlPwfLJn2I7UdXRi9EsE5SkMyXxJ9.jpeg",
         buttons: [
           {
@@ -358,8 +358,8 @@ const cms: CMS = {
           {
             image:
               "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-02-27%20at%2013.47.44_bae11465.jpg-ab5wpYMB1gkD6zXwwBekREF2Th9cL2.jpeg",
-            alt: "Professional domestic help staff",
-            title: "Domestic Help",
+            alt: "Professional housekeeping staff",
+            title: "Housekeeping",
           },
         ],
       },
@@ -519,7 +519,7 @@ const cms: CMS = {
           {
             question: "What is the minimum contract period for your services?",
             answer:
-              "Our minimum contract period varies by service type. For security and domestic help, we typically offer 3-month minimum contracts. For specialized services like electrical and mechanical work, we offer both project-based and ongoing maintenance contracts.",
+              "Our minimum contract period varies by service type. For security and House Keeping, we typically offer 3-month minimum contracts. For specialized services like electrical and mechanical work, we offer both project-based and ongoing maintenance contracts.",
           },
           {
             question: "Can I request a replacement if I'm not satisfied with the service?",
@@ -711,14 +711,14 @@ const cms: CMS = {
       },
       domesticServices: {
         icon: "Home",
-        title: "Domestic Help Services",
+        title: "House Keeping Services",
         subtitle:
           "Reliable and trustworthy domestic staff including maids, cooks, and caretakers to maintain your home with care.",
         description:
-          "Our domestic help services provide thoroughly vetted and trained staff for your home. We understand the importance of trust and reliability when it comes to household staff, which is why we maintain rigorous standards in our recruitment and training processes.",
+          "Our House Keeping services provide thoroughly vetted and trained staff for your home. We understand the importance of trust and reliability when it comes to household staff, which is why we maintain rigorous standards in our recruitment and training processes.",
         image:
           "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-02-27%20at%2013.47.44_bae11465.jpg-ab5wpYMB1gkD6zXwwBekREF2Th9cL2.jpeg",
-        imageAlt: "Professional domestic help staff",
+        imageAlt: "Professional House Keeping staff",
         features: [
           {
             icon: "",
@@ -886,7 +886,7 @@ const cms: CMS = {
         },
         {
           title: "Maintaining Work-Life Balance for Domestic Staff",
-          excerpt: "Guidelines for creating healthy work environments and schedules for domestic help professionals.",
+          excerpt: "Guidelines for creating healthy work environments and schedules for House Keeping professionals.",
           image: "/placeholder.svg?height=400&width=600",
           date: "Feb 5, 2024",
           readTime: "3 min read",
@@ -917,7 +917,7 @@ const cms: CMS = {
     footer: {
       logo: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-02-27%20at%2012.26.46_3fc88e65.jpg-MjlPwfLJn2I7UdXRi9EsE5SkMyXxJ9.jpeg",
       description:
-        "Your trusted partner for premium manpower solutions, providing exceptional security guards, electricians, mechanics, and domestic help services.",
+        "Your trusted partner for premium manpower solutions, providing exceptional security guards, electricians, mechanics, and Housekeeoing  services.",
       socialLinks: [
         {
           platform: "Facebook",
@@ -952,7 +952,7 @@ const cms: CMS = {
         { text: "Security Guards", href: "/services#security-guards" },
         { text: "Electricians", href: "/services#electricians" },
         { text: "Mechanics", href: "/services#mechanics" },
-        { text: "Domestic Help", href: "/services#domestic-help" },
+        { text: "House Keeping", href: "/services#domestic-help" },
       ],
       contactInfo: {
         address: "Diamond Harbour Road, Sahapur, New Alipore, Kolkata, West Bengal 700038",

@@ -133,7 +133,7 @@ export default function ContactForm() {
                     <SelectItem value="security">Security Guards</SelectItem>
                     <SelectItem value="electrical">Electricians</SelectItem>
                     <SelectItem value="mechanical">Mechanics</SelectItem>
-                    <SelectItem value="domestic">Domestic Help</SelectItem>
+                    <SelectItem value="domestic">Housekeeping</SelectItem>
                     <SelectItem value="other">Other Services</SelectItem>
                   </SelectContent>
                 </Select>

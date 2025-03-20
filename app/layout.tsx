@@ -16,7 +16,7 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   title: "Crown Shield Agency | Premium Manpower Solutions",
   description:
-    "Your Trusted Partner for Quality Manpower Solutions - Security Guards, Electricians, Mechanics, and Domestic Help",
+    "Your Trusted Partner for Quality Manpower Solutions - Security Guards, Electricians, Mechanics, and Housekeeping Services.",
     generator: 'v0.dev'
 }
 

@@ -18,7 +18,7 @@ const faqs = [
   {
     question: "What is the minimum contract period for your services?",
     answer:
-      "Our minimum contract period varies by service type. For security and domestic help, we typically offer 3-month minimum contracts. For specialized services like electrical and mechanical work, we offer both project-based and ongoing maintenance contracts.",
+      "Our minimum contract period varies by service type. For security and housekeepig, we typically offer 3-month minimum contracts. For specialized services like electrical and mechanical work, we offer both project-based and ongoing maintenance contracts.",
   },
   {
     question: "Can I request a replacement if I'm not satisfied with the service?",

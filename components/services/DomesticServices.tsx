@@ -41,7 +41,7 @@ export default function DomesticServices() {
           <div className="inline-flex items-center justify-center p-2 bg-navy-800 rounded-full mb-4">
             <Home className="w-6 h-6 text-gold-500" />
           </div>
-          <h2 className="text-3xl md:text-4xl font-bold mb-4">Domestic Help Services</h2>
+          <h2 className="text-3xl md:text-4xl font-bold mb-4">Housekeeping Services</h2>
           <p className="text-xl text-white/70 max-w-3xl mx-auto">
             Reliable and trustworthy domestic staff including maids, cooks, and caretakers to maintain your home with
             care.
@@ -58,7 +58,7 @@ export default function DomesticServices() {
           >
             <h3 className="text-2xl font-bold mb-6 text-white">Trusted Domestic Staff</h3>
             <p className="text-white/70 mb-8">
-              Our domestic help services provide thoroughly vetted and trained staff for your home. We understand the
+              Our House Keeping services provide thoroughly vetted and trained staff for your home. We understand the
               importance of trust and reliability when it comes to household staff, which is why we maintain rigorous
               standards in our recruitment and training processes.
             </p>
@@ -100,7 +100,7 @@ export default function DomesticServices() {
             <div className="relative rounded-lg overflow-hidden shadow-xl">
               <Image
                 src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-02-27%20at%2013.47.44_bae11465.jpg-ab5wpYMB1gkD6zXwwBekREF2Th9cL2.jpeg"
-                alt="Professional domestic help staff"
+                alt="Professional housekeeping staff"
                 width={600}
                 height={400}
                 className="w-full object-cover"
@@ -110,7 +110,7 @@ export default function DomesticServices() {
                 <div className="inline-block px-4 py-2 bg-gold-500 text-navy-950 font-semibold rounded-md mb-2">
                   Reliable Staff
                 </div>
-                <h3 className="text-2xl font-bold text-white">Professional Domestic Help</h3>
+                <h3 className="text-2xl font-bold text-white"> Housekeeping Service</h3>
               </div>
             </div>
           </motion.div>

@@ -39,8 +39,8 @@ const blogs = [
     category: "Training",
   },
   {
-    title: "Maintaining Work-Life Balance for Domestic Staff",
-    excerpt: "Guidelines for creating healthy work environments and schedules for domestic help professionals.",
+    title: "Maintaining Work-Life Balance for Housekeeping Staff",
+    excerpt: "Guidelines for creating healthy work environments and schedules for housekeeping professionals.",
     image: "/placeholder.svg?height=400&width=600",
     date: "Feb 5, 2024",
     readTime: "3 min read",
