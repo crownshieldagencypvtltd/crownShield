@@ -111,7 +111,7 @@ export default function Footer() {
               <li className="flex items-center">
                 <Mail className="w-5 h-5 text-gold-500 mr-3 flex-shrink-0" />
                 <a
-                  href="mailto:info@crownshieldagency.com"
+                  href="mailto:crownshieldagency@gmail.com"
                   className="text-white/70 hover:text-gold-500 transition-colors duration-300"
                 >
                   crownshieldagency@gmail.com
