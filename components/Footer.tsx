@@ -105,7 +105,7 @@ export default function Footer() {
                   href="tel:+917319367046 "
                   className="text-white/70 hover:text-gold-500 transition-colors duration-300"
                 >
-                  +917319367046 
+                  +91 7319367046 
                 </a>
               </li>
               <li className="flex items-center">
