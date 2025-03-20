@@ -6,49 +6,27 @@ import { Mail, Phone, Linkedin } from "lucide-react"
 
 const leaders = [
   {
-    name: "Rajiv Kumar",
-    position: "Chief Executive Officer",
+    name: "Ajay Sain",
+    position: "Managing Director",
     image: "/placeholder.svg?height=400&width=400",
-    bio: "With over 20 years of experience in manpower solutions, Rajiv leads Crown Shield Agency with a vision for excellence and innovation.",
+    bio: "With over 20 years of experience in manpower solutions, Ajay Sain leads Crown Shield Agency with a vision for excellence and innovation.",
     contact: {
-      email: "rajiv.kumar@crownshieldagency.com",
-      phone: "+91 98765 43210",
-      linkedin: "https://linkedin.com/in/rajiv-kumar",
+      email: "crownshieldagency@gmail.com",
+      phone: "+91 7319367046",
+      linkedin: "https://linkedin.com/in/ajay-sain",
     },
   },
   {
-    name: "Priya Sharma",
-    position: "Operations Director",
+    name: "Anuska Sain",
+    position: "Executive Director",
     image: "/placeholder.svg?height=400&width=400",
-    bio: "Priya oversees all operational aspects of Crown Shield Agency, ensuring seamless service delivery and client satisfaction.",
+    bio: "Anuska Sain oversees all operational aspects of Crown Shield Agency, ensuring seamless service delivery and client satisfaction.",
     contact: {
-      email: "priya.sharma@crownshieldagency.com",
-      phone: "+91 98765 43211",
-      linkedin: "https://linkedin.com/in/priya-sharma",
+      email: "crownshieldagency@gmail.com",
+      phone: "+91 7319367046",
+      linkedin: "https://linkedin.com/in/anuska-sain",
     },
-  },
-  {
-    name: "Amit Patel",
-    position: "Head of Security Services",
-    image: "/placeholder.svg?height=400&width=400",
-    bio: "A former military officer, Amit brings extensive security expertise to lead our security services division.",
-    contact: {
-      email: "amit.patel@crownshieldagency.com",
-      phone: "+91 98765 43212",
-      linkedin: "https://linkedin.com/in/amit-patel",
-    },
-  },
-  {
-    name: "Meera Singh",
-    position: "HR Director",
-    image: "/placeholder.svg?height=400&width=400",
-    bio: "Meera leads our recruitment and training programs, ensuring we maintain the highest standards in our workforce.",
-    contact: {
-      email: "meera.singh@crownshieldagency.com",
-      phone: "+91 98765 43213",
-      linkedin: "https://linkedin.com/in/meera-singh",
-    },
-  },
+  }
 ]
 
 export default function Leadership() {
