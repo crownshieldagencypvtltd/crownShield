@@ -447,17 +447,17 @@ const cms: CMS = {
       stats: {
         items: [
           {
-            value: 15,
+            value: 10,
             label: "Years of Experience",
             suffix: "+",
           },
           {
-            value: 5000,
+            value: 100,
             label: "Clients Served",
             suffix: "+",
           },
           {
-            value: 1000,
+            value: 500,
             label: "Professionals Employed",
             suffix: "+",
           },
