@@ -931,7 +931,7 @@ const cms: CMS = {
         },
         {
           platform: "Instagram",
-          url: "#",
+          url: "https://www.instagram.com/crownshieldagency?igsh=MnU5YXp4cnRkaGFv",
           icon: "Instagram",
         },
         {
