@@ -76,7 +76,7 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-6 text-white">Our Services</h3>
             <ul className="space-y-3">
-              {["Security Guards", "Electricians", "Mechanics", "Domestic Help"].map((item) => (
+              {["Security Guards", "Electricians", "Mechanics", "House Keeping"].map((item) => (
                 <li key={item}>
                   <Link
                     href={`/services#${item.toLowerCase().replace(" ", "-")}`}
