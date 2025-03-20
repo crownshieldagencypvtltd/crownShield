@@ -105,7 +105,7 @@ export default function Footer() {
                   href="tel:+917319367046 "
                   className="text-white/70 hover:text-gold-500 transition-colors duration-300"
                 >
-                  +91 98765 43210
+                  +917319367046 
                 </a>
               </li>
               <li className="flex items-center">
@@ -114,7 +114,7 @@ export default function Footer() {
                   href="mailto:info@crownshieldagency.com"
                   className="text-white/70 hover:text-gold-500 transition-colors duration-300"
                 >
-                  crownshieldagency.com
+                  crownshieldagency@gmail.com
                 </a>
               </li>
             </ul>
